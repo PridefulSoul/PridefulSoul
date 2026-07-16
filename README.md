@@ -14,6 +14,8 @@ ${\textsf{\color{#755e27}¡Dona aqui!}}$
 
 <a href="https://ayudavenezolanos.com/?utm_medium=paid&utm_source=ig&utm_id=120248347577830535&utm_content=120248347577840535&utm_term=120248347577850535&utm_campaign=120248347577830535&fbclid=PAb21jcASuPLFleHRuA2FlbQEwAGFkaWQBqzVEwdrNl3NydGMGYXBwX2lkDzU2NzA2NzM0MzM1MjQyNwABp4uhsSkZl1NO0IUElzxKZhs96eBTup14YBqV15fO15lMS73t4thro0Hk6zYx_aem_TR8tC53jbDu2JYdCftpKww"><b>Ayuda venezolanos</b></a>
 
+<a href="https://terremoto.hazlohoy.org/"><b>terremoto.hazlohoy.org</b></a>
+
 <a href="https://help.unicef.org/lac/venezuela/emergenciavenezuela"><b>help.unicef.org</b></a>
 
 ${\textsf{\color{#755e27}Pagina de desaparecidos}}$
